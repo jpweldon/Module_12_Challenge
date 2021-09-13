@@ -24,7 +24,7 @@ This project leverages python 3.7 with the following modules:
 
 * [imbalance-learn](https://pypi.org/project/imbalanced-learn/) - For re-sampling.
 
-* [pydotplus](https://pypi.org/project/pydotplus/) - For providing a Python Interface to Graphviz’s Dot language to render graphs.
+* [pydotplus](https://pypi.org/project/pydotplus/) - For providing a Python Interface to Graphviz’s Dot language.
 
 ---
 
@@ -52,7 +52,7 @@ Clone the Module_12_Challenge repository from GitHub:
 
 Run the credit_risk_resampling.ipynb program.
 
-Examine the data preperation and analysis. Read the text and comments that document my findings.
+Examine the data preparation and analysis. Read the text and comments that document my findings.
 
 Open Credit_Risk_Analysis_Report.md.
 
